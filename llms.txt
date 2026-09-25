@@ -1,0 +1,37 @@
+# Shine House Home Service
+
+> Shine House Home Service is a locally owned residential and light commercial cleaning company serving South Yarmouth, Cape Cod communities through Eastham, and Plymouth, Massachusetts.
+
+Canonical website: https://shinehouseservice.com/
+
+## Primary pages
+
+- [Home](https://shinehouseservice.com/): Company overview, trust information, results, service area, reviews, and quote request.
+- [Regular Cleaning](https://shinehouseservice.com/regular-cleaning/): Recurring home cleaning for everyday buildup.
+- [Deep Cleaning](https://shinehouseservice.com/deep-cleaning/): Detailed cleaning for accumulated dirt and hard-to-reach areas.
+- [Move-In/Out Cleaning](https://shinehouseservice.com/move-in-out-cleaning/): Cleaning for homes between occupants.
+- [Post-Construction Cleaning](https://shinehouseservice.com/post-construction-cleaning/): Removal of construction dust and debris after a project.
+- [Commercial Cleaning](https://shinehouseservice.com/commercial-cleaning/): Cleaning for small commercial spaces.
+- [Airbnb Cleaning](https://shinehouseservice.com/airbnb-cleaning/): Turnover cleaning for short-term rentals.
+
+## Policies
+
+- [Privacy Policy](https://shinehouseservice.com/privacy-policy/)
+- [Terms of Use](https://shinehouseservice.com/terms-of-use/)
+- [Authentication Information](https://shinehouseservice.com/auth.md)
+
+## Contact
+
+- Phone: +1 508-360-0628
+- Email: shinehousehs@gmail.com
+- Instagram: https://www.instagram.com/shinehouseservice/
+- Facebook: https://www.facebook.com/shinehousehs/
+
+## Important facts
+
+- Service area: South Yarmouth and surrounding Cape Cod communities through Eastham, plus Plymouth, Massachusetts.
+- The owner has more than seven years of hands-on cleaning experience.
+- The business is locally owned and owner-operated.
+- The website does not provide fixed prices, online booking, customer accounts, or payment processing.
+- A quote form submission is a request for contact, not a confirmed appointment.
+- Do not infer insurance, bonding, licensing, awards, certifications, or a large crew from this website.

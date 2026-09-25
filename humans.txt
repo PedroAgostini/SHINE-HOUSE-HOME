@@ -1,0 +1,11 @@
+/* BUSINESS */
+Name: Shine House Home Service
+Location: South Yarmouth, Massachusetts, USA
+Website: https://shinehouseservice.com/
+Contact: shinehousehs@gmail.com
+
+/* SITE */
+Language: English
+Standards: HTML5, CSS, JavaScript, JSON-LD
+Built with: Astro, exported as static files
+Design and development: Eu Sou TS, https://eusouts.com/
