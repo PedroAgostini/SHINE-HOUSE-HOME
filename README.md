@@ -5,11 +5,11 @@
 
   **Reliable home cleaning in South Yarmouth and surrounding Cape Cod communities.**
 
-  [![Website](https://img.shields.io/badge/Website-shinehouseservice.com-48503A?style=for-the-badge)](https://shinehouseservice.com/)
+  [![Website](https://img.shields.io/badge/Website-shinehousehome.com-48503A?style=for-the-badge)](https://shinehousehome.com/)
   [![Static Site](https://img.shields.io/badge/Build-Static_HTML-D0C8A8?style=for-the-badge&labelColor=363D2B)](#technology)
   [![Language](https://img.shields.io/badge/Language-English-C8C8A8?style=for-the-badge&labelColor=363D2B)](#pages)
 
-  [Website](https://shinehouseservice.com/) · [Instagram](https://www.instagram.com/shinehouseservice/) · [Facebook](https://www.facebook.com/shinehousehs/)
+  [Website](https://shinehousehome.com/) · [Instagram](https://www.instagram.com/shinehouseservice/) · [Facebook](https://www.facebook.com/shinehousehs/)
 </div>
 
 ---

@@ -1,7 +1,7 @@
 /* BUSINESS */
 Name: Shine House Home Service
 Location: South Yarmouth, Massachusetts, USA
-Website: https://shinehouseservice.com/
+Website: https://shinehousehome.com/
 Contact: shinehousehs@gmail.com
 
 /* SITE */

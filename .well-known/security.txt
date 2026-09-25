@@ -1,4 +1,4 @@
 Contact: mailto:shinehousehs@gmail.com
-Canonical: https://shinehouseservice.com/.well-known/security.txt
+Canonical: https://shinehousehome.com/.well-known/security.txt
 Preferred-Languages: en
 Expires: 2027-09-25T23:59:59Z

@@ -2,23 +2,23 @@
 
 > Shine House Home Service is a locally owned residential and light commercial cleaning company serving South Yarmouth, Cape Cod communities through Eastham, and Plymouth, Massachusetts.
 
-Canonical website: https://shinehouseservice.com/
+Canonical website: https://shinehousehome.com/
 
 ## Primary pages
 
-- [Home](https://shinehouseservice.com/): Company overview, trust information, results, service area, reviews, and quote request.
-- [Regular Cleaning](https://shinehouseservice.com/regular-cleaning/): Recurring home cleaning for everyday buildup.
-- [Deep Cleaning](https://shinehouseservice.com/deep-cleaning/): Detailed cleaning for accumulated dirt and hard-to-reach areas.
-- [Move-In/Out Cleaning](https://shinehouseservice.com/move-in-out-cleaning/): Cleaning for homes between occupants.
-- [Post-Construction Cleaning](https://shinehouseservice.com/post-construction-cleaning/): Removal of construction dust and debris after a project.
-- [Commercial Cleaning](https://shinehouseservice.com/commercial-cleaning/): Cleaning for small commercial spaces.
-- [Airbnb Cleaning](https://shinehouseservice.com/airbnb-cleaning/): Turnover cleaning for short-term rentals.
+- [Home](https://shinehousehome.com/): Company overview, trust information, results, service area, reviews, and quote request.
+- [Regular Cleaning](https://shinehousehome.com/regular-cleaning/): Recurring home cleaning for everyday buildup.
+- [Deep Cleaning](https://shinehousehome.com/deep-cleaning/): Detailed cleaning for accumulated dirt and hard-to-reach areas.
+- [Move-In/Out Cleaning](https://shinehousehome.com/move-in-out-cleaning/): Cleaning for homes between occupants.
+- [Post-Construction Cleaning](https://shinehousehome.com/post-construction-cleaning/): Removal of construction dust and debris after a project.
+- [Commercial Cleaning](https://shinehousehome.com/commercial-cleaning/): Cleaning for small commercial spaces.
+- [Airbnb Cleaning](https://shinehousehome.com/airbnb-cleaning/): Turnover cleaning for short-term rentals.
 
 ## Policies
 
-- [Privacy Policy](https://shinehouseservice.com/privacy-policy/)
-- [Terms of Use](https://shinehouseservice.com/terms-of-use/)
-- [Authentication Information](https://shinehouseservice.com/auth.md)
+- [Privacy Policy](https://shinehousehome.com/privacy-policy/)
+- [Terms of Use](https://shinehousehome.com/terms-of-use/)
+- [Authentication Information](https://shinehousehome.com/auth.md)
 
 ## Contact
 
