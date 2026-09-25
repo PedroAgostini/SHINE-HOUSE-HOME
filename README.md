@@ -20,8 +20,6 @@ This repository contains the production-ready static website for **Shine House H
 
 The website is focused on clear local service information, trust, accessibility, fast loading, and easy quote requests on desktop and mobile.
 
-> **Portfolio edition:** public form credentials are intentionally omitted from this repository. The live, connected build is maintained separately by Shine House Home Service.
-
 ## Pages
 
 - Home page with services, results, reviews, service area, and quote form
