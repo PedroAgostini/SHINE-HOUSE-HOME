@@ -5,11 +5,11 @@
 
   **Reliable home cleaning in South Yarmouth and surrounding Cape Cod communities.**
 
-  [![Website](https://img.shields.io/badge/Website-shinehouseservice.com-48503A?style=for-the-badge)](https://shinehouseservice.com/)
+  [![Website](https://img.shields.io/badge/Website-shinehousehome.com-48503A?style=for-the-badge)](https://shinehousehome.com/)
   [![Static Site](https://img.shields.io/badge/Build-Static_HTML-D0C8A8?style=for-the-badge&labelColor=363D2B)](#technology)
   [![Language](https://img.shields.io/badge/Language-English-C8C8A8?style=for-the-badge&labelColor=363D2B)](#pages)
 
-  [Website](https://shinehouseservice.com/) · [Instagram](https://www.instagram.com/shinehouseservice/) · [Facebook](https://www.facebook.com/shinehousehs/)
+  [Website](https://shinehousehome.com/) · [Instagram](https://www.instagram.com/shinehouseservice/) · [Facebook](https://www.facebook.com/shinehousehs/)
 </div>
 
 ---
@@ -38,7 +38,7 @@ The website is focused on clear local service information, trust, accessibility,
 
 - Responsive, mobile-first interface
 - Accessible navigation, forms, focus states, and reduced-motion support
-- Web3Forms quote request integration
+- Web3Forms primary quote delivery with secondary lead-platform forwarding
 - Layered anti-spam protection
 - LocalBusiness, WebSite, Service, and Breadcrumb structured data
 - Canonical URLs, Open Graph, Twitter cards, and semantic metadata
@@ -54,7 +54,7 @@ The deployed artifact is a fully static website:
 HTML5 · CSS · JavaScript · JSON-LD · WebP · WOFF2
 ```
 
-No server runtime, database, or customer login is required. The contact form sends quote requests through Web3Forms.
+No server runtime, database, or customer login is required. The contact form sends quote requests through Web3Forms first, then forwards successful submissions to the lead-management platform.
 
 ## Repository structure
 
